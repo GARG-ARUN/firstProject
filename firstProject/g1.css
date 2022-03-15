@@ -1,0 +1,36 @@
+.image
+{
+position:absolute;
+width:250px;
+height:150px;
+margin:0px 0px 0px 100px;
+border-radius:20%;
+opacity:1;
+}
+.image1
+{
+position:absolute;
+width:250px;
+height:150px;
+margin:0px 0px 0px 350px;
+border-radius:20%;
+opacity:1;
+}
+.image2
+{
+position:absolute;
+width:250px;
+height:150px;
+margin:0px 0px 0px 600px;
+border-radius:20%;
+opacity:1;
+}
+.image4
+{
+position:absolute;
+width:250px;
+height:150px;
+margin:0px 0px 0px 850px;
+border-radius:20%;
+opacity:1;
+}

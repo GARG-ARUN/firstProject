@@ -1,0 +1,57 @@
+.arun
+{
+margin:100px 0px 0px 900px;
+}
+body
+{
+color:white;
+filter:blur;
+}
+.abc
+{
+background:grey;
+height:100%;
+width:100%;
+margin:0% 0% 0% 0%;
+border:5px groove grey;
+border-radius:5% 50% 30% 40%;
+}
+.abd
+{
+background:grey;
+height:100%;
+width:100%;
+margin:0% 0% 0% 0%;
+border:5px groove grey;
+border-radius:5% 50% 30% 40%;
+}
+.qw
+{
+height:400px;
+width:400px;
+opacity:.3;
+border-radius:5% 5% 5% 50%;
+}
+.qe
+{
+position:relative;
+margin:-30% 0% 0% 33%;
+border:2px solid black;
+}
+td,th,tr
+{
+margin:0;
+border:2px solid black;
+padding:5px;
+margin:0px;
+border-collaspe:collaspe;
+}
+table
+{
+border-collapse:collapse;
+border-radius:5%;
+}
+.qq
+{
+margin:0px  0px 0px 20px;
+}

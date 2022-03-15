@@ -1,0 +1,51 @@
+.op
+{
+background:grey;
+height:100%;
+width:100%;
+margin:0% 0% 0% 0%;
+border:5px groove grey;
+border-radius:5% 50% 30% 40%;
+}
+.abc
+{
+background:grey;
+height:100%;
+width:100%;
+margin:0% 0% 0% 0%;
+border:5px groove grey;
+border-radius:5% 50% 30% 30%;
+}
+body
+{
+color:white;
+filter:blur;
+}
+.opp
+{
+margin:2% 0% 0% 5%;
+height:200px;
+width:400px;
+border-radius:5% 5% 5% 42%;
+opacity:.5;
+}
+.abb
+{
+margin:3% 0% 0% 3%;
+}
+.abbb
+{
+margin:2% 0% 0% 3%;
+}
+.abbb1
+{
+margin:2% 0% 0% 3%;
+}
+.abbb2
+{
+margin:2% 0% 0% 3%;
+}
+.arun
+{
+margin:0px 0px 0px 900px;
+}

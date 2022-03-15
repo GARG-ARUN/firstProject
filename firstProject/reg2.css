@@ -1,0 +1,81 @@
+body
+{
+color:white;
+filter:blur;
+}
+.abc
+{
+background:grey;
+position:absolute;
+height:100%;
+width:100%;
+margin:0% 0% 0% 0%;
+border:5px groove grey;
+border-radius:0% 50% 30% 40%;
+}
+.ab
+{
+background:grey;
+position:absolute;
+height:50%;
+width:50%;
+margin:5% 0% 0% 5%;
+}
+
+.as
+{
+position:relative;
+margin:150px 0px 0px 900px;
+}
+.ad
+{
+
+position:relative;
+margin:0px 0px 0px 850px;
+}
+td,td,tr
+{
+position:relative;
+padding:10px;
+}
+.aq
+{
+position:relative;
+margin:0px 0px 0px 50px;
+padding:10px;
+border-radius:50%;
+border:2px groove grey;
+cursor:pointer;
+}
+.aq:hover
+{
+color:white;
+background-color:#aa54ff;
+}
+.aqz
+{
+margin:50px 0px 0px 900px;
+padding:5px;
+width:100px;
+border:3px groove dimgrey;
+animation:example 1s infinite;
+cursor:pointer;
+}
+.aqz:hover
+{
+color:white;
+background-color:grey;
+font-size:20px;
+border-radius:20%;
+}
+.arun
+{
+margin:100px 0px 0px 900px;
+}
+@keyframes example {
+    0%   {background-color:#6fcf02;}
+    25%  {background-color:#bdfaff;}
+    50%  {background-color:#aa54ff;}
+    75%  {background-color:#ffe396;}
+    100% {background-color:#613144;}
+}
